@@ -9,7 +9,7 @@
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 250px 1fr 108px;
-  grid-template-areas: 
+  grid-template-areas:
     "1"
     "2"
     "3";
@@ -34,7 +34,7 @@
       h3 {
         font-size: 1.3rem;
         text-transform: uppercase;
-        letter-spacing: .2rem;
+        letter-spacing: 0.2rem;
         margin-top: 1.5rem;
         color: $color-5;
       }
@@ -47,9 +47,9 @@
     ul {
       height: 100%;
       display: grid;
-    
+
       li {
-        padding: 1rem 0 1rem .4rem;
+        padding: 1rem 0 1rem 0.4rem;
         font-size: 1.3rem;
         position: relative;
 
@@ -58,7 +58,7 @@
         }
 
         a {
-        color: $color-5;
+          color: $color-5;
         }
         .navActive {
           color: $color-4;
@@ -68,7 +68,7 @@
           position: absolute;
           font-size: 0.95rem;
           transform: translateY(3px);
-          transition: .2s ease;
+          transition: 0.2s ease;
         }
         span {
           margin-left: 2.7rem;
@@ -90,18 +90,18 @@
         background: $color-5;
         color: $color-1;
         border-radius: 50%;
-        padding: .5rem 0.8rem;
-        transition: .3s;
+        padding: 0.5rem 0.8rem;
+        transition: 0.3s;
         cursor: pointer;
 
         a:visited {
           color: $color-1;
         }
-        &:nth-child(1){
-          padding: .5rem .85rem
+        &:nth-child(1) {
+          padding: 0.5rem 0.85rem;
         }
-        &:nth-child(4){
-          padding: .5rem .75rem
+        &:nth-child(4) {
+          padding: 0.5rem 0.75rem;
         }
         &:hover {
           background: $color-4;
@@ -112,9 +112,10 @@
       margin-top: 2rem;
       text-align: center;
       letter-spacing: 0.1rem;
-      font-size: .7rem;
+      font-size: 0.7rem;
 
-      a, a:visited {
+      a,
+      a:visited {
         color: $color-5;
 
         &:hover {
@@ -124,18 +125,19 @@
     }
   }
 }
-@media screen and (max-width: 850px){
+@media screen and (max-width: 850px) {
   .sidebar {
     display: flex;
     min-height: 50px;
-    margin-bottom: .2rem;
+    margin-bottom: 0.2rem;
 
-    .id, .socialNetwork {
+    .id,
+    .socialNetwork {
       display: none;
     }
     .navigation {
       width: 100%;
-      padding: .1rem 1rem;
+      padding: 0.1rem 1rem;
 
       ul {
         display: flex;
@@ -148,7 +150,7 @@
     }
   }
 }
-@media screen and (max-width:580px){
+@media screen and (max-width: 580px) {
   .sidebar {
     ul {
       justify-content: space-around !important;
