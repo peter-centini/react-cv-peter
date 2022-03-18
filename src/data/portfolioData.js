@@ -37,20 +37,20 @@ export const portfolioData = [
   },
   {
     id: 5,
-    name: 'Projet Avenir',
-    languages: ['javascript','css'],
-    languagesIcons: ['fab fa-js', 'fab fa-css3-alt'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
+    name: 'Portfolio N°2',
+    languages: ['javascript','css','react'],
+    languagesIcons: ['fab fa-js', 'fab fa-css3-alt','fab fa-react'],
+    source: 'https://portfolio-2-sandy.vercel.app/',
+    info: 'Portfolio Numéro 2 toujours pour me perfectionner dans React et le css .',
     picture: './media/project5.JPG'
   },
   {
     id: 6,
-    name: 'Projet Avenir',
+    name: 'React Drapeaux of World',
     languages: ['javascript','react', 'css'],
-    languagesIcons: ['fab fa-js','fab fa-react','fab fa-css3-alt'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project6.JPG'
+    languagesIcons: ['fab fa-js','fab fa-react','fab fa-css3-alt', 'fab fa-react'],
+    source: 'https://react-drapeau.vercel.app/',
+    info: 'Site en React avec acces a une API sur les données mondiales de tout les pays il est possible de trillier tous les pays par continent et de voir apparaitre au survolle de la souris (hover) toute les informations concernant le pays sur lequel on se trouve.',
+    picture: './media/project6.png'
   },
 ]

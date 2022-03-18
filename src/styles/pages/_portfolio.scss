@@ -130,6 +130,7 @@
       border-radius: 4px;
       cursor: pointer;
       @include verticalCenter;
+      margin-top: 22px;
     }
     .infos {
       grid-area: 4;
