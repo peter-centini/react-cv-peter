@@ -30,7 +30,7 @@ URL : [http://localhost:3000](http://localhost:3000)
 URL : [https://react-cv-peter.vercel.app/] (https://react-cv-peter.vercel.app/)
 
 
-### screen du projet
+<p align="center">### screen du projet</p>
 
 <p align="center">
 <img src="https://github.com/peter-centini/react-cv-peter/blob/main/screen.png" width="350" title="portfolio img"></p>
