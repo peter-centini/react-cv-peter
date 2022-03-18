@@ -42,7 +42,7 @@ const Navigation = () => {
         <ul>
           <li>
             <a
-              href="https://www.google.fr"
+              href="http://www.linkedin.com/in/peter-centini-ab0695215"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -51,7 +51,7 @@ const Navigation = () => {
           </li>
           <li>
             <a
-              href="https://www.google.fr"
+              href="http://github.com/peter-centini"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -60,7 +60,7 @@ const Navigation = () => {
           </li>
           <li>
             <a
-              href="https://www.google.fr"
+              href="https://github.com/peter-centini"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -69,7 +69,7 @@ const Navigation = () => {
           </li>
           <li>
             <a
-              href="https://www.google.fr"
+              href="https://codepen.io/"
               target="_blank"
               rel="noopener noreferrer"
             >
