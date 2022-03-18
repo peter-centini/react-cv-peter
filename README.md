@@ -1,7 +1,7 @@
-#### React cv 
+### React cv 
 Realisation a partir de React avec beaucoup de js vous pouvez telecharger le repo et faire 
 
-### Une fois cloner ou télécharger faire (pour installer les dépendances)
+#### Une fois cloner ou télécharger faire (pour installer les dépendances)
 
 ```
 npm install 
@@ -12,14 +12,14 @@ npm i
 
 ```
 
-### Pour le tester et le modifier 
+#### Pour le tester et le modifier 
 
 ```bash
 npm start
 
 ```
 
-### Une fois le serveur démarrer ouvrir votre navigateur préférer et vous rendre a l'adresse suivante 
+#### Une fois le serveur démarrer ouvrir votre navigateur préférer et vous rendre a l'adresse suivante 
 
 ```
 URL : [http://localhost:3000](http://localhost:3000)
