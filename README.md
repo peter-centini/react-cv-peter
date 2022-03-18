@@ -19,6 +19,12 @@ npm start
 
 ```
 
+### Une fois le serveur démarrer ouvrir votre navigateur préférer et vous rendre a l'adresse suivante 
+
+```
+URL : [http://localhost:3000](http://localhost:3000)
+```
+
 ### Lien vers la démo héberger chez vercel 
 
 URL : [https://react-cv-peter.vercel.app/] (https://react-cv-peter.vercel.app/)
