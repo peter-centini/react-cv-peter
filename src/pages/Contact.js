@@ -46,7 +46,7 @@ const Contact = () => {
         <div className="socialNetwork">
           <ul>
             <a
-              href="http://github.com/peter-centini"
+              href="https://github.com/peter-centini"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -54,7 +54,7 @@ const Contact = () => {
               <i className="fab fa-linkedin"></i>
             </a>
             <a
-              href="http://www.linkedin.com/in/peter-centini-ab0695215"
+              href="https://www.linkedin.com/in/peter-centini-ab0695215"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -62,7 +62,7 @@ const Contact = () => {
               <i className="fab fa-github"></i>
             </a>
             <a
-              href="http://github.com/peter-centini"
+              href="https://github.com/peter-centini"
               target="_blank"
               rel="noopener noreferrer"
             >
