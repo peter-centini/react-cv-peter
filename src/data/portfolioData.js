@@ -22,7 +22,7 @@ export const portfolioData = [
     name: 'Chambre hotes',
     languages: ['javascript','html','css'],
     languagesIcons: ['fab fa-js','fab fa-html5','fab fa-css3-alt'],
-    source: 'https://peter-centini.github.io/Chambredhote/',
+    source: 'https://peter-centini.github.io/Chambre-d-hote/',
     info: 'Petit projet vitrine pour une copine qui fait chamnbres d`hotes',
     picture: './media/project3.png'
   },
