@@ -37,7 +37,7 @@ const Contact = () => {
                     alert("E-mail copié!");
                   }}
                 >
-                  peter-centini@gmail.com
+                  peter.centini@gmail.com
                 </span>
               </CopyToClipboard>
             </li>
